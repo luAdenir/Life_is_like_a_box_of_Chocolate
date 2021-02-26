@@ -18,9 +18,11 @@ Telco-Customer-Churn.csv with 7043 rows and 18 columns:
 12. Device Protection
 13. TechSupport
 14. StreamingTV
-15.StreamingMovies
-16.Contract
-17.PaperlessBilling
-18.PaymentMethod
+15. Streaming Movies
+16. Contract
+17. PaperlessBilling
+18. PaymentMethod
+19. Churn
+
 
 Tools: Python, ML, Tableau
