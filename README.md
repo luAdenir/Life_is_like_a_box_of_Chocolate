@@ -3,7 +3,7 @@
 Who are the customers that are likely to switch network service provider? 
 
 Data Use:
-Telco-Customer-Churn.csv with 7043 rows and 18 columns:
+Telco-Customer-Churn.csv with 7043 rows and 19 columns:
 1. CustomerID
 2. Gender
 3. Senior Citizen 0=No, 1=Yes
