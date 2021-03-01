@@ -2,7 +2,7 @@
 
 Does Chocolate bar ratings based on the amount of cocoa?
 
-Data use in this project is from [Chocolate Bar Ratings](http://flavorsofcacao.com/chocolate_database.html) These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society.
+Chocolate Bar Ratings dataset is use in this project from [Flavors of Cacao](http://flavorsofcacao.com/chocolate_database.html) website. These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society.
 
 Data Use:
 Telco-Customer-Churn.csv with 7043 rows and 19 columns:
