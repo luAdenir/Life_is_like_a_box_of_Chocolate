@@ -1,30 +1,21 @@
 # Life is like a box of Chocolate
 
-Does Chocolate bar ratings based on the amount of cocoa?
+1. Does Chocolate bar ratings is based on the amount of its cocoa content?
+2. Does having other ingredients like vanilla, salt, licithin and sugar correlate with the chocolate bar ratings?
+3. Where to find the best tasting chocolate bar in the world?
+4. Which country produced the best tasting chocolate bar?
+
 
 Chocolate Bar Ratings dataset is use in this project from [Flavors of Cacao](http://flavorsofcacao.com/chocolate_database.html) website. These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society.
 
-Data Use:
-Telco-Customer-Churn.csv with 7043 rows and 19 columns:
-1. CustomerID
-2. Gender
-3. Senior Citizen 0=No, 1=Yes
-4. Partner
-5. Dependents
-6. Tenure(Months)
-7. Phone Service
-8. Multiple Lines
-9. Internet Service
-10. Online Security
-11. Online Backup
-12. Device Protection
-13. TechSupport
-14. StreamingTV
-15. Streaming Movies
-16. Contract
-17. PaperlessBilling
-18. PaymentMethod
-19. Churn
+Dataset Columns:
+1. Company (Manufacturer)
+2. Company Location
+3. Review Date
+4. Country of Bean Origin
+5. Specific Bean Origin or Bar Name
+6. Cocoa Percent
+7. Ingredients (Vanilla, Salt, Licithin, Sugar)
+8. Most Memorable Characteristics
+9. Ratings
 
-
-Tools: Python, ML, Tableau
